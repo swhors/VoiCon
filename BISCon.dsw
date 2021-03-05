@@ -1,0 +1,167 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "BISConManager"=".\BISConManager\BISConManager.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name IVRRunner4
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name IVRTimeManager
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name ScenarioEditor
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name VoiConLock
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name VoiceDecoder
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name RTPStreamTimeInfo
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "IVRRunner4"=".\IVRRunner_4\IVRRunner4.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "IVRTimeManager"=".\IVRTimeManager\IVRTimeManager.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "RTPStreamTimeInfo"=".\RTPStreamTimeInfo\RTPStreamTimeInfo.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "ScenarioEditor"=".\ScenarioEditor\ScenarioEditor.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "TestPlug"=".\TestPlug\TestPlug.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "TestWeb1"=".\TestWeb1\TestWeb1.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "UbiDialer"=".\SKYPhone\UbiDialer.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "VoiConLock"=".\VoiConLock\VoiConLock.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "VoiceConverter"=".\VoiceConverter\VoiceConverter.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "VoiceDecoder"=".\VoiceDecoder\VoiceDecoder.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

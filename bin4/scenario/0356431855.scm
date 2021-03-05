@@ -1,0 +1,212 @@
+// -- Item Start 
+SELF:0 
+TYPE:101 
+MTYPE:1200 
+TARGET0:3 
+// -- Item End 
+// -- Item Start 
+SELF:1 
+TYPE:102 
+TARGET0:5 
+MENT0:001
+// -- Item End 
+// -- Item Start 
+SELF:2 
+TYPE:110 
+TARGET0:21 
+DAILYCHK:1
+DAILYCHK_GO:1
+OFFTIMESTARTHOUR:19
+OFFTIMESTARTMINUTE:00
+ONTIMESTARTHOUR:10
+ONTIMESTARTMINUTE:00
+// -- Item End 
+// -- Item Start 
+SELF:3 
+TYPE:111 
+MTYPE:1300 
+TARGET0:40 
+FALSEGO:2 
+ARGIN:0
+ARGOUT:9
+DLLNAME:IvrAuthPlugIn
+FUNCTION:VerifyCalled
+// -- Item End 
+// -- Item Start 
+SELF:5 
+TYPE:102 
+TARGET0:-1 
+// -- Item End 
+// -- Item Start 
+SELF:6 
+TYPE:102 
+TARGET0:48 
+MENT0:007
+// -- Item End 
+// -- Item Start 
+SELF:10 
+TYPE:102 
+TARGET0:49 
+MENT0:006
+// -- Item End 
+// -- Item Start 
+SELF:14 
+TYPE:102 
+TARGET0:15 
+MENT0:005
+// -- Item End 
+// -- Item Start 
+SELF:15 
+TYPE:100 
+TARGET0:43 
+SHARP:1
+LENGTH:3
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:21 
+TYPE:102 
+TARGET0:22 
+MENT0:002
+// -- Item End 
+// -- Item Start 
+SELF:22 
+TYPE:102 
+TARGET0:23 
+MENT0:003
+// -- Item End 
+// -- Item Start 
+SELF:23 
+TYPE:100 
+TARGET0:31 
+SHARP:1
+LENGTH:3
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:29 
+TYPE:105 
+TARGET0:-1 
+ENABLEINCALLNODROP:1
+ENABLEBUSYRETRY:1
+BUSYRETRYCOUNT:1
+BUSYRETRYPOINT:10
+// -- Item End 
+// -- Item Start 
+SELF:31 
+TYPE:116 
+MTYPE:1401 
+TARGET0:32 
+INPUT:6
+VALUE:0
+// -- Item End 
+// -- Item Start 
+SELF:32 
+TYPE:113 
+MTYPE:1008 
+TARGET0:33 
+FALSEGO:34 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:33 
+TYPE:102 
+TARGET0:47 
+MENT0:004
+// -- Item End 
+// -- Item Start 
+SELF:34 
+TYPE:116 
+MTYPE:1401 
+TARGET0:36 
+INPUT:6
+VALUE:99
+// -- Item End 
+// -- Item Start 
+SELF:35 
+TYPE:118 
+MTYPE:1200 
+TARGET0:22 
+// -- Item End 
+// -- Item Start 
+SELF:36 
+TYPE:113 
+MTYPE:1008 
+TARGET0:35 
+FALSEGO:42 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:40 
+TYPE:116 
+MTYPE:1401 
+TARGET0:41 
+INPUT:8
+VALUE:1
+// -- Item End 
+// -- Item Start 
+SELF:41 
+TYPE:113 
+MTYPE:1008 
+TARGET0:6 
+FALSEGO:14 
+ARGIN:8
+ARGIN:9
+// -- Item End 
+// -- Item Start 
+SELF:42 
+TYPE:111 
+MTYPE:1300 
+TARGET0:29 
+FALSEGO:10 
+ARGIN:0
+ARGIN:5
+ARGOUT:1
+DLLNAME:IvrAuthPlugIn
+FUNCTION:GetInternal
+// -- Item End 
+// -- Item Start 
+SELF:43 
+TYPE:118 
+MTYPE:1200 
+TARGET0:42 
+// -- Item End 
+// -- Item Start 
+SELF:45 
+TYPE:118 
+MTYPE:1200 
+TARGET0:42 
+// -- Item End 
+// -- Item Start 
+SELF:47 
+TYPE:116 
+MTYPE:1401 
+TARGET0:45 
+INPUT:5
+VALUE:116
+// -- Item End 
+// -- Item Start 
+SELF:48 
+TYPE:105 
+TARGET0:-1 
+ENABLEINCALLNODROP:1
+ENABLEBUSYRETRY:1
+BUSYRETRYCOUNT:1
+BUSYRETRYPOINT:10
+// -- Item End 
+// -- Item Start 
+SELF:49 
+TYPE:116 
+MTYPE:1401 
+TARGET0:51 
+INPUT:5
+VALUE:116
+// -- Item End 
+// -- Item Start 
+SELF:51 
+TYPE:118 
+MTYPE:1200 
+TARGET0:42 
+// -- Item End 

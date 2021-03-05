@@ -1,0 +1,371 @@
+// -- Item Start 
+SELF:0 
+TYPE:101 
+MTYPE:1200 
+TARGET0:1 
+// -- Item End 
+// -- Item Start 
+SELF:1 
+TYPE:102 
+TARGET0:40 
+MENT0:101
+// -- Item End 
+// -- Item Start 
+SELF:2 
+TYPE:110 
+TARGET0:6 
+DAILYCHK:1
+OFFTIMESTARTHOUR:17
+OFFTIMESTARTMINUTE:00
+ONTIMESTARTHOUR:10
+ONTIMESTARTMINUTE:00
+DAILYCHK_GO:3
+DAILYCHK_FNAME:OnTime36605681.ini
+// -- Item End 
+// -- Item Start 
+SELF:3 
+TYPE:102 
+TARGET0:4 
+MENT0:105
+// -- Item End 
+// -- Item Start 
+SELF:4 
+TYPE:100 
+TARGET0:5 
+SHARP:0
+LENGTH:2
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:5 
+TYPE:120 
+TARGET0:-1 
+UINPUT:0
+MPOINT:15
+MDTMF:1
+MPOINT:19
+MDTMF:2
+MPOINT:23
+MDTMF:3
+MPOINT:27
+MDTMF:4
+MPOINT:31
+MDTMF:5
+MPOINT:47
+MDTMF:9
+// -- Item End 
+// -- Item Start 
+SELF:6 
+TYPE:102 
+TARGET0:7 
+MENT0:104
+// -- Item End 
+// -- Item Start 
+SELF:7 
+TYPE:100 
+TARGET0:8 
+SHARP:1
+LENGTH:2
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:8 
+TYPE:120 
+TARGET0:-1 
+UINPUT:0
+MPOINT:10
+MDTMF:6
+MPOINT:11
+MDTMF:1
+MPOINT:15
+MDTMF:1
+MPOINT:19
+MDTMF:2
+MPOINT:23
+MDTMF:3
+MPOINT:27
+MDTMF:4
+MPOINT:31
+MDTMF:5
+MPOINT:6
+MDTMF:9
+// -- Item End 
+// -- Item Start 
+SELF:9 
+TYPE:105 
+TARGET0:-1 
+// -- Item End 
+// -- Item Start 
+SELF:10 
+TYPE:102 
+TARGET0:49 
+MENT0:106
+// -- Item End 
+// -- Item Start 
+SELF:12 
+TYPE:116 
+MTYPE:1401 
+TARGET0:13 
+INPUT:6
+VALUE:9
+// -- Item End 
+// -- Item Start 
+SELF:13 
+TYPE:100 
+TARGET0:18 
+SHARP:1
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:15 
+TYPE:102 
+TARGET0:12 
+MENT0:107
+// -- Item End 
+// -- Item Start 
+SELF:17 
+TYPE:102 
+TARGET0:-1 
+// -- Item End 
+// -- Item Start 
+SELF:18 
+TYPE:113 
+MTYPE:1008 
+TARGET0:15 
+FALSEGO:17 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:19 
+TYPE:102 
+TARGET0:20 
+MENT0:108
+// -- Item End 
+// -- Item Start 
+SELF:20 
+TYPE:116 
+MTYPE:1401 
+TARGET0:21 
+INPUT:6
+VALUE:9
+// -- Item End 
+// -- Item Start 
+SELF:21 
+TYPE:100 
+TARGET0:22 
+SHARP:1
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:22 
+TYPE:113 
+MTYPE:1008 
+TARGET0:19 
+FALSEGO:17 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:23 
+TYPE:102 
+TARGET0:24 
+MENT0:109
+// -- Item End 
+// -- Item Start 
+SELF:24 
+TYPE:116 
+MTYPE:1401 
+TARGET0:25 
+INPUT:6
+VALUE:9
+// -- Item End 
+// -- Item Start 
+SELF:25 
+TYPE:100 
+TARGET0:26 
+SHARP:1
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:26 
+TYPE:113 
+MTYPE:1008 
+TARGET0:23 
+FALSEGO:17 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:27 
+TYPE:102 
+TARGET0:28 
+MENT0:110
+// -- Item End 
+// -- Item Start 
+SELF:28 
+TYPE:116 
+MTYPE:1401 
+TARGET0:29 
+INPUT:6
+VALUE:9
+// -- Item End 
+// -- Item Start 
+SELF:29 
+TYPE:100 
+TARGET0:30 
+SHARP:1
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:30 
+TYPE:113 
+MTYPE:1008 
+TARGET0:27 
+FALSEGO:17 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:31 
+TYPE:102 
+TARGET0:32 
+MENT0:111
+// -- Item End 
+// -- Item Start 
+SELF:32 
+TYPE:116 
+MTYPE:1401 
+TARGET0:33 
+INPUT:6
+VALUE:9
+// -- Item End 
+// -- Item Start 
+SELF:33 
+TYPE:100 
+TARGET0:34 
+SHARP:0
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:34 
+TYPE:113 
+MTYPE:1008 
+TARGET0:31 
+FALSEGO:17 
+ARGIN:5
+ARGIN:6
+// -- Item End 
+// -- Item Start 
+SELF:35 
+TYPE:116 
+MTYPE:1400 
+TARGET0:2 
+VALUE:1
+// -- Item End 
+// -- Item Start 
+SELF:36 
+TYPE:102 
+TARGET0:37 
+MENT0:102
+// -- Item End 
+// -- Item Start 
+SELF:37 
+TYPE:100 
+TARGET0:38 
+SHARP:0
+LENGTH:1
+INPUT:5
+// -- Item End 
+// -- Item Start 
+SELF:38 
+TYPE:120 
+TARGET0:-1 
+FALSEGO:44 
+UINPUT:0
+MPOINT:35
+MDTMF:1
+MPOINT:41
+MDTMF:2
+MPOINT:42
+MDTMF:3
+MPOINT:43
+MDTMF:4
+// -- Item End 
+// -- Item Start 
+SELF:40 
+TYPE:117 
+MTYPE:1500 
+TARGET0:36 
+COMMAND:2
+INPUT:0
+VALUE:3
+// -- Item End 
+// -- Item Start 
+SELF:41 
+TYPE:116 
+MTYPE:1400 
+TARGET0:2 
+VALUE:2
+// -- Item End 
+// -- Item Start 
+SELF:42 
+TYPE:116 
+MTYPE:1400 
+TARGET0:2 
+VALUE:3
+// -- Item End 
+// -- Item Start 
+SELF:43 
+TYPE:116 
+MTYPE:1400 
+TARGET0:2 
+VALUE:4
+// -- Item End 
+// -- Item Start 
+SELF:44 
+TYPE:117 
+MTYPE:1500 
+TARGET0:46 
+FALSEGO:45 
+COMMAND:0
+// -- Item End 
+// -- Item Start 
+SELF:45 
+TYPE:102 
+TARGET0:-1 
+// -- Item End 
+// -- Item Start 
+SELF:46 
+TYPE:102 
+TARGET0:36 
+MENT0:103
+// -- Item End 
+// -- Item Start 
+SELF:47 
+TYPE:118 
+MTYPE:1200 
+TARGET0:3 
+// -- Item End 
+// -- Item Start 
+SELF:48 
+TYPE:111 
+MTYPE:1300 
+TARGET0:9 
+ARGIN:0
+ARGIN:5
+ARGOUT:1
+// -- Item End 
+// -- Item Start 
+SELF:49 
+TYPE:116 
+MTYPE:1401 
+TARGET0:48 
+INPUT:5
+VALUE:116
+// -- Item End 
